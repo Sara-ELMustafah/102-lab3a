@@ -22,7 +22,7 @@ for (var i = 0; i < Number(number); i++) {
   document.write("<img src=\"https://petkeen.com/wp-content/uploads/2020/06/shutterstock_722595979.jpg\">");
 }
 }
-
+  
 
 function black() {
   for (var i = 0; i < Number(number); i++) {
@@ -40,5 +40,4 @@ if (question2 == true) {
 }
 else {
   document.write("<p>Please fill it ASAP !</p>");
-
 }
