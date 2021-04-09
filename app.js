@@ -3,12 +3,12 @@ if(uName!=null){
 document.write("<h1>Hello "+uName+" !</h1>");
 }
 
-var color=prompt("Please choose the color red/blue:");
+var color=prompt("Please choose the color red/pink:");
 if(color=="red"){
 document.body.style.background = "red";
 }
-else if(color=="blue"){
-document.body.style.background = "blue";
+else if(color=="pink"){
+document.body.style.background = "pink";
 }
 
 var question2 = confirm("Do you want to fill the cat adoption form ?!");
